@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**shahriza1/shahriza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student from National University of Malaysia (UKM) in Bachelor of Information Technology with Honours. 
 
-Here are some ideas to get you started:
+Tools: 
+![Visual_Studio_Code_1 35_icon svg](https://github.com/shahriza1/shahriza1/assets/157901948/782656c8-5ae0-4730-9eac-aacc87c984a3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on developing enterprise resource planning (ERP) for the company business software system.
+- 🌱 I’m currently learning Laravel framework.
+- 📫 How to reach me: shahriza1 (Instagram)
+
+
